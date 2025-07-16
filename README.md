@@ -15,7 +15,7 @@ This project is designed to [briefly describe the purpose of the project].
 2. Navigate into the project directory:
    ```bash
    cd yourproject
-   ```
+   ``` 
 3. Install dependencies:
    ```bash
    npm install
